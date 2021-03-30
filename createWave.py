@@ -1,5 +1,5 @@
 """
-Generating a single wave with python with the aim to generate two to create a Binary Beats.
+Generating a single wave with python with the aim to generate two to create a Binaural Beats.
 
 """
 
